@@ -1,4 +1,4 @@
-<h1>React + Vite + TailwindCSS</h1>
+<h1>React + Vite + TailwindCSS + Firestore Test</h1>
 
 <img src="./firebase.png" alt="Preview">
 
