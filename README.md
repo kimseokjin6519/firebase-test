@@ -1,8 +1,6 @@
-#### React + Vite + TailwindCSS
+<h1>React + Vite + TailwindCSS</h1>
 
-![Preview](./firebase.png)
+<img src="./firebase.png" alt="Preview">
 
-##### .ENV
-VITE_FIREBASE_API_KEY = your_firebase_api_key
-
-
+<h4>.ENV</h4>
+<div>VITE_FIREBASE_API_KEY = your_firebase_api_key</div>
