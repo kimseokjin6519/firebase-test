@@ -1,4 +1,4 @@
-# React + Vite + TailwindCSS
+#### React + Vite + TailwindCSS
 
 ![Preview](./firebase.png)
 
